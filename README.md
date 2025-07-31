@@ -16,7 +16,7 @@ A smart lighting system that automatically adjusts the brightness of AC-powered 
 
 
 Key Components and Their Roles:
-  <img width="655" height="572" alt="Screenshot 2025-07-31 100801" src="https://github.com/user-attachments/assets/259f2d59-4c2e-44bc-aab2-5995f85b24d0" />
+<img width="948" height="696" alt="image" src="https://github.com/user-attachments/assets/652d37bd-6376-41fc-a142-3b038e2fd605" />
 
 
 
