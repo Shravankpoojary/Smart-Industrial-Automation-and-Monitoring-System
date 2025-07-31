@@ -30,7 +30,7 @@ Main Functional Features:
 
   
 
-   <img width="756" height="302" alt="image" src="https://github.com/user-attachments/assets/d679f2f7-61d5-4675-8b1b-244879f833eb" />
+<img width="953" height="292" alt="image" src="https://github.com/user-attachments/assets/87cfc31e-7077-4205-8c2d-71ba937cf87c" />
 
 
 
