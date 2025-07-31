@@ -24,7 +24,7 @@ Key Components and Their Roles:
 
 
 Main Functional Features:
-  <img width="928" height="441" alt="Screenshot 2025-07-31 095412" src="https://github.com/user-attachments/assets/8ed31e54-ee5b-486e-8ec5-c805fda3b007" />
+<img width="953" height="360" alt="image" src="https://github.com/user-attachments/assets/545737a0-899d-4bf7-96bb-d847328da464" />
 
 
 
