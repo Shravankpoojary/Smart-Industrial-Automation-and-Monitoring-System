@@ -1,7 +1,7 @@
 # Smart-Industrial-Automation-and-Monitoring-System
 Smart industrial automation system using Arduino and ESP8266 with FreeRTOS. It adjusts lighting based on sunlight, user input, and motion detection. Monitors gas leakage and temperature, controls cooling via relay, and publishes sensor data to an MQTT-based IoT dashboard for real-time monitoring.
 
-Tech Stack: NodeMCU ESP8266, MQTTT mosquito broker, Arduino uno -R3, MQ-135 , Arduino IDE, BTA41-600B, PIR sensor,AC Dimmer LED Bulb.
+Tech Stack: NodeMCU ESP8266, MQTTT mosquito broker, Arduino uno -R3, MQ-135 , Arduino IDE, (RoboDyn AC Dimmer module -a popular module used for controlling the brightness of lamps, the speed of fans, or other AC loads through phase-angle control (using TRIAC and opto-isolator like MOC3021 + BTA16/BTA24)) , PIR sensor, AC Dimmer LED Bulb.
 
 Features:
 Gas leak detection & auto-alert 
@@ -19,7 +19,7 @@ Key Components and Their Roles:
 <img width="948" height="696" alt="image" src="https://github.com/user-attachments/assets/652d37bd-6376-41fc-a142-3b038e2fd605" />
 
 
-
+Reference Video for understanding how Robodyne Dimmer circiut Works "https://www.youtube.com/watch?v=3hAzLrYsE7A"
 
 
 
